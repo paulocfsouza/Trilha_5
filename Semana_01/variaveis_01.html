@@ -1,0 +1,34 @@
+<!--
+    Descrição
+
+1. Crie 5 variáveis e atribua valores, respeitando os tipos de dados a serem armazenados. Em seguida, em uma variável chamada profissional, concatene as variáveis abaixo formando uma string que faça sentido com os dados informados e apresente essa variável com o método document.write() em algum arquivo.html ou utilizando o console.log().
+
+a. nome (string)
+b. telefone (string)
+c. se possui convênio médico ou não (booleano)
+d. profissão (string)
+e. salário (number)
+
+-->
+
+<meta charset="UTF-8">
+
+<script> 
+
+    var nome = "Paulo";
+    var telefone = "(11) 91234-1234";
+    var convenio = true;
+    var profissao = "analista de suporte em TI";
+    var salario = 3000.00;
+
+    if (convenio){
+        convenio="sim";
+    } else {
+        convenio="não";
+    }
+
+    var profissional = ( nome + "  é um  " + profissao + ", recebendo um salário de R$ " + salario + " Durante a entrevista, foi questionado se ele tinha convênio médico, ao que ele respondeu que " + convenio + ". Seu número de telefone para contato é " + telefone);
+
+    document.write(profissional);
+
+</script>
