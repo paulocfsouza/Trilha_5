@@ -1,6 +1,6 @@
 <!--
 Descrição
-Editar
+
 1. Com as estruturas de repetição for e while, faça o que se pede:
 
 a) Mostre os números de 1 a 50 na tela, dizendo se é par ou ímpar:
@@ -12,16 +12,23 @@ a) Mostre os números de 1 a 50 na tela, dizendo se é par ou ímpar:
 //...
 ` 49 é ímpar
   50 é par`
+
 b) Mostre apenas os múltiplos de 3 entre 1 e 100:
 
 3 6 9 12 ... 93 96 99
+
 c) Mostre a seguinte sequência (de 100 até 0, pulando de dois em dois):
 
 100 98 96 94 92 ... 6 4 2 0
-2. O jogo do PIM é um jogo em que o Sílvio Santos pedia para os participantes de seu programa contar de 1 até 40 da seguinte forma:
 
-"1, 2, 3, PIM, 5, 6, 7, PIM, 9, 10, 11, PIM, 13, 14, 15, PIM, 17, 18, 19, PIM, 21, 22, 23, PIM, 25, 26, 27, PIM, 29, 30, 31, PIM, 33, 34, 35, PIM, 37, 38, 39, PIM!"
-Ou seja, quando o número era múltiplo de 4, o jogador tinha que falar PIM ao invés do número! Crie uma lógica que executa o jogo do PIM corretamente.
+2. O jogo do PIM é um jogo em que o Sílvio Santos pedia para os participantes de seu programa contar 
+de 1 até 40 da seguinte forma:
+
+"1, 2, 3, PIM, 5, 6, 7, PIM, 9, 10, 11, PIM, 13, 14, 15, PIM, 17, 18, 19, PIM, 21, 22, 23, PIM, 25, 26, 
+27, PIM, 29, 30, 31, PIM, 33, 34, 35, PIM, 37, 38, 39, PIM!"
+Ou seja, quando o número era múltiplo de 4, o jogador tinha que falar PIM ao invés do número! 
+
+Crie uma lógica que executa o jogo do PIM corretamente.
 
 Jogo do Pin | Programa Silvio Santos (28/07/19) - YouTube
 -->
@@ -30,54 +37,62 @@ Jogo do Pin | Programa Silvio Santos (28/07/19) - YouTube
 
 <script>
 
-    document.write("USANDO FOR PARA VERIFICAR SE É IMPAR OU PAR </br><hr>");
-    for (let numero = 1; numero <= 50; numero++) {
-        if(numero % 2){
-            document.write(`${numero} é impar </br>`)
-        }else{
-            document.write(`${numero} é par </br>`)
+    document.write("<br><hr>USANDO FOR PARA VERIFICAR SE É IMPAR OU PAR <br><hr>");
+   
+        for (let numero = 1; numero <= 50; numero++) {
+            if(numero % 2){
+                document.write(`${numero} é impar </br>`)
+            }else{
+                document.write(`${numero} é par </br>`)
+            }
         }
-    }
 
     
-    document.write("</br> USANDO WHILE PARA VERIFICAR SE É IMPAR OU PAR </br><hr>");
+    document.write("<hr> USANDO WHILE PARA VERIFICAR SE É IMPAR OU PAR </br><hr>");
+    
     var numero = 1;
-    while(numero <= 50){
-        if(numero % 2){
-            document.write(`${numero} é impar </br>`)
-        }else{
-            document.write(`${numero} é par </br>`)
-        }
-        numero++;
-    }
-
     
-    document.write("</br> MOSTRANDO MULTIPLOS DE 3 <br><hr>");
+        while(numero <= 50){
+            if(numero % 2){
+                document.write(`${numero} é impar </br>`)
+            }else{
+                document.write(`${numero} é par </br>`)
+            }
+            numero++;
+        }
+    
+    document.write("<hr> MOSTRANDO MULTIPLOS DE 3 <br><hr>");
+    
     let contagem = 1;
-    while(contagem < 100){
-        let resultado = contagem * 3;
-        if(resultado <=100){
-            document.write((resultado) + '<br>');
-           
+        
+        while(contagem < 100){
+            let resultado = contagem * 3;
+            if(resultado <=100){
+                document.write((resultado) + '<br>');
+            
+            }
+            contagem++;
         }
-        contagem++;
-    }
 
     
-    document.write("</br> MOSTRANDO a seguinte sequência (de 100 até 0, pulando de dois em dois): <br><hr>");
-    for(let numero = 100; numero >= 0; numero= numero - 2){
-        document.write(numero + '<br>');
-    }
-
-    document.write("</br> MOSTRANDO O JOGO DO PIM:<br><hr>");
-
-    for (let index = 1; index <= 40; index++) {
-        document.write('<br>>');
-        if(index % 4 == 0){
-            document.write('PIM');
-        }else{
-            document.write(index);        
+    document.write("<hr> MOSTRANDO a seguinte sequência (de 100 até 0, pulando de dois em dois): <br><hr>");
+        
+        for(let numero = 100; numero >= 0; numero= numero - 2){
+        
+            document.write(numero + '<br>');
         }
-    }
+
+    document.write("<hr> MOSTRANDO O JOGO DO PIM:<br><hr>");
+
+        for (let index = 1; index <= 40; index++) {
+            
+            document.write('<br>');
+            
+            if(index % 4 == 0){
+                document.write('PIM');
+            }else{
+                document.write(index);        
+            }
+        }
 
 </script>
