@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\bin\Debug\net8.0\Comex.exe
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\bin\Debug\net8.0\Comex.deps.json
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\bin\Debug\net8.0\Comex.runtimeconfig.json
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\bin\Debug\net8.0\Comex.dll
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\bin\Debug\net8.0\Comex.pdb
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.AssemblyInfo.cs
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.sourcelink.json
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.dll
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\refint\Comex.dll
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.pdb
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\Comex.genruntimeconfig.cache
+C:\Users\admin\Desktop\Trilha_5\Trilha_5\Semana_05\Comex\Comex\obj\Debug\net8.0\ref\Comex.dll

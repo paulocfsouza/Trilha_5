@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|c:\\users\\admin\\desktop\\trilha_5\\trilha_5\\semana_05\\comex\\comex\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|solutionrelative:comex\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|c:\\users\\admin\\desktop\\trilha_5\\trilha_5\\semana_05\\comex\\comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|solutionrelative:comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|c:\\users\\admin\\desktop\\trilha_5\\trilha_5\\semana_05\\comex\\comex\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|solutionrelative:comex\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|c:\\users\\admin\\desktop\\trilha_5\\trilha_5\\semana_05\\comex\\comex\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|solutionrelative:comex\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|c:\\users\\admin\\desktop\\trilha_5\\trilha_5\\semana_05\\comex\\comex\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A113ACF2-1B21-4D30-B77A-C21E90E26A64}|Comex\\Comex.csproj|solutionrelative:comex\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Menu.cs",
+              "RelativeDocumentMoniker": "Comex\\Menu.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Menu.cs",
+              "RelativeToolTip": "Comex\\Menu.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:05:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Cliente.cs",
+              "RelativeDocumentMoniker": "Comex\\Cliente.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Cliente.cs",
+              "RelativeToolTip": "Comex\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:01:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Endereco.cs",
+              "RelativeDocumentMoniker": "Comex\\Endereco.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Endereco.cs",
+              "RelativeToolTip": "Comex\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:00:43.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Produto.cs",
+              "RelativeDocumentMoniker": "Comex\\Produto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Produto.cs",
+              "RelativeToolTip": "Comex\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:56:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Program.cs",
+              "RelativeDocumentMoniker": "Comex\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Trilha_5\\Trilha_5\\Semana_05\\Comex\\Comex\\Program.cs",
+              "RelativeToolTip": "Comex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:56:15.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
